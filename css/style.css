@@ -1,0 +1,23 @@
+
+body{
+  font-family: font-family: 'Open Sans', sans-serif;
+}
+ul{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+
+#primary-nav{
+  background-color: #02918c;
+}
+#primary-nav #menu ul li a{
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 13.5px 25px;
+  display: inline-block;
+}
+
